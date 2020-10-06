@@ -1,4 +1,4 @@
-# projectAI
+# Project AI
 
 ## Machine Learning
 Project1: Thực hiện nén hình ảnh với thuật toán K-mean clustering và trực quan hóa với PCA
